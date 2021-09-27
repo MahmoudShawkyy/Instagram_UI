@@ -1,6 +1,8 @@
-# instagram
+# Instagram UI
 
 A new Flutter application.
+It's Instagram clone UI from scratch.It shows the home screen of the app.
+
 
 ## Getting Started
 
